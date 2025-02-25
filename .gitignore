@@ -1,0 +1,4 @@
+.direnv
+/target
+/.data
+.pre-commit-config.yaml
